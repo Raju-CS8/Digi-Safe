@@ -1,0 +1,67 @@
+[
+  {
+    "message": "Your bank account will be blocked. Click link and enter OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T10:29:01.530087"
+  },
+  {
+    "message": "Your bank account will be blocked today. Click the link immediately and enter the OTP to avoid suspension.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T11:22:10.464206"
+  },
+  {
+    "message": "jkj",
+    "decision": "LOW RISK",
+    "time": "2026-02-22T11:23:42.888328"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T11:40:44.090030"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T11:41:06.208487"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T11:49:03.016832"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T12:11:52.781007"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T12:12:09.529542"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T12:14:33.814778"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T12:15:30.789729"
+  },
+  {
+    "message": "Your bank account will be blocked. Click the link and share OTP immediately.",
+    "decision": "HIGH RISK",
+    "time": "2026-02-22T12:25:13.659253"
+  },
+  {
+    "message": "Your Amazon order has been delivered today. Thank you for shopping with us.",
+    "decision": "LOW RISK",
+    "time": "2026-02-22T12:32:21.393529"
+  },
+  {
+    "message": "Dear user, contact customer care immediately to resolve your pending issue.",
+    "decision": "LOW RISK",
+    "time": "2026-02-22T12:32:58.646025"
+  }
+]
